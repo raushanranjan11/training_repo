@@ -13,3 +13,17 @@ W
 'src/com/training/enumtest/EnumTest.java,0\0\009e194b4a019494645bc00fb8e64a9913806762
 R
 "src/com/training/enumtest/Day.java,7\3\739aba3c5171d974ac07ec65d29b6296592bb3df
+3
+doc,f\7\f7f029ecb98abe979074a3ab45b74dbd9af02d42
+U
+%src/com/training/exceptionExample/doc,c\5\c5b73b48407d6df586973eaef7efb980d8b60cff
+]
+-src/com/training/scannerTest/ScannerTest.java,f\6\f663ba71f1b8d98c789aa41e09f5a9bc9a26f5dc
+^
+.src/com/training/scannerTest/ScannerClass.java,8\3\8398174c8141bea232f093b2bf3c72f32fd4ebb0
+^
+.src/com/training/scannerTest/ScannerTest1.java,e\8\e81c6ddefee03cebaed0830010eba6e72eda6371
+g
+7src/com/training/exceptionExample/ExceptionExample.java,d\a\daa1f475680dc78a21d89754b791a8cc112f56f1
+i
+9src/com/training/exceptionExample/MyCustomeException.java,c\c\cca94fea1c1f386630a5f84ebb8fb7ab5e94ef24
