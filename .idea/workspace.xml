@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8d53e0b-9d1a-49e1-88f1-7cb46dac3282" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-for-student.iml" beforeDir="false" afterPath="$PROJECT_DIR$/training-for-student.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubPullRequestsUISettings">
@@ -39,32 +46,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Raushan Ranjan/OneDrive/Desktop/Java-lecture/training-for-student/src/com/training/exceptionExample&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;cn.mrdear.intellij.decompile.state.PluginSettingUIRegister&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Raushan Ranjan/OneDrive/Desktop/Java-lecture/training-for-student/src/com/training/exceptionExample",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "cn.mrdear.intellij.decompile.state.PluginSettingUIRegister"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Raushan Ranjan\OneDrive\Desktop\Java-lecture\training-for-student\src\com\training\exceptionExample" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyCustomeException">
-    <configuration name="ExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.exceptionExample.ExceptionExample" />
+  <component name="RunManager" selected="Application.FilesClass">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.training.ioPackage.Example1" />
       <module name="training-for-student" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.training.exceptionExample.*" />
+          <option name="PATTERN" value="com.training.ioPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyCustomeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.exceptionExample.MyCustomeException" />
+    <configuration name="FileClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.training.ioPackage.FileClass" />
       <module name="training-for-student" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.training.exceptionExample.*" />
+          <option name="PATTERN" value="com.training.ioPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.scannerTest.ScannerClass" />
+    <configuration name="FilesClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.training.ioPackage.FilesClass" />
       <module name="training-for-student" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.training.scannerTest.*" />
+          <option name="PATTERN" value="com.training.ioPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.scannerTest.ScannerTest" />
+    <configuration name="OutputStreamClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.training.ioPackage.OutputStreamClass" />
       <module name="training-for-student" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.training.scannerTest.*" />
+          <option name="PATTERN" value="com.training.ioPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.scannerTest.ScannerTest1" />
+    <configuration name="TestToCreateFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.training.ioPackage.TestToCreateFile" />
       <module name="training-for-student" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.training.scannerTest.*" />
+          <option name="PATTERN" value="com.training.ioPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,19 +132,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyCustomeException" />
-      <item itemvalue="Application.ScannerTest" />
-      <item itemvalue="Application.ScannerTest1" />
-      <item itemvalue="Application.ScannerClass" />
-      <item itemvalue="Application.ExceptionExample" />
+      <item itemvalue="Application.Example1" />
+      <item itemvalue="Application.FileClass" />
+      <item itemvalue="Application.FilesClass" />
+      <item itemvalue="Application.OutputStreamClass" />
+      <item itemvalue="Application.TestToCreateFile" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyCustomeException" />
-        <item itemvalue="Application.ExceptionExample" />
-        <item itemvalue="Application.ScannerTest1" />
-        <item itemvalue="Application.ScannerTest" />
-        <item itemvalue="Application.ScannerClass" />
+        <item itemvalue="Application.FilesClass" />
+        <item itemvalue="Application.TestToCreateFile" />
+        <item itemvalue="Application.OutputStreamClass" />
+        <item itemvalue="Application.FileClass" />
+        <item itemvalue="Application.Example1" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +170,7 @@
       <workItem from="1733894130919" duration="5639000" />
       <workItem from="1734153126700" duration="10334000" />
       <workItem from="1734372879411" duration="7473000" />
+      <workItem from="1737311278207" duration="2935000" />
     </task>
     <servers />
   </component>
@@ -645,6 +653,15 @@
           <url>file://$PROJECT_DIR$/src/com/training/scannerTest/ScannerClass.java</url>
           <line>13</line>
           <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/training/ioPackage/Example1.java</url>
+          <line>30</line>
+          <properties class="com.training.ioPackage.Example1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="109" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
